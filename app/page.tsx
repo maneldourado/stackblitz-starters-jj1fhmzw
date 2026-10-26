@@ -870,8 +870,8 @@ function Sidebar({ role, setRole, activeTab, setActiveTab, pendingCount }: any) 
       <div className="sidebar-brand">
         <div className="brand-mark"><I.Shield /></div>
         <div className="brand-text">
-          <strong>RotaSegura</strong>
-          <span>Corporate Travel</span>
+          <strong>Gerenciamento de viagens/strong>
+          <span>Serviços maritimos Continental</span>
         </div>
       </div>
       <div className="sidebar-section">
